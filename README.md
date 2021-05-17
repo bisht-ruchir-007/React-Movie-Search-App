@@ -1,8 +1,10 @@
 # React Movie Search App
 
+## The project focuses on modern React, using concepts like functional components and hooks to build the movie search app.
+
 ### API : The Movie Database API (3)
 
-docs link : https://developers.themoviedb.org/3/movies/get-movie-details
+Docs link : https://developers.themoviedb.org/3/movies/get-movie-details
 
 ## Getting Started with Create React App
 
